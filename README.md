@@ -75,7 +75,7 @@
 
 
 ## 🎵지금 듣고 있는 노래🎵  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31z25mrkconzxk2p7xysndle5fhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31z25mrkconzxk2p7xysndle5fhq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -91,6 +91,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
