@@ -1,8 +1,4 @@
 ### 안녕하세요? 저는 안민수입니다.  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">✨제 깃허브에 와주셔서 감사합니다✨</div>  
   
@@ -91,3 +87,5 @@
 
 
 <br />
+
+----
