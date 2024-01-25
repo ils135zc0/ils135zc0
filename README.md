@@ -52,7 +52,7 @@
 
 
 
-### 📷인스타그램📷  
+## 📷인스타그램📷  
 <div align="center">
 <a href="https://instagram.com/ils135zc0" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -63,7 +63,7 @@
 <br/>  
 
 
-## 깃허브 스택
+## 🐱깃허브 스택🖥️
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ils135zc0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -74,14 +74,14 @@
 
 
 
-### 🎵지금 듣고 있는 노래🎵  
+## 🎵지금 듣고 있는 노래🎵  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31z25mrkconzxk2p7xysndle5fhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
 
 
 
-### 👋깃허브 방문자 수👋  
+## 👋깃허브 방문자 수👋  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ils135zc0&&style=flat-square" align="center" />
 </div>  
